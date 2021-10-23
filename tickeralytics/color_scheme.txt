@@ -1,0 +1,25 @@
+	COLOR SCALE - PYPLOT
+
+
+jet 
+cividis
+plasma @
+plotly3
+purd
+rainbow
+turbo
+virdis
+dense 
+gray
+solar
+speed
+brbg
+picnic
+portland **
+delta
+oxy
+edge
+hsv
+icefire
+
+RdYlGn - sentiment scale 
