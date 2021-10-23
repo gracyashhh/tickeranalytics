@@ -1,0 +1,194 @@
+{% extends "check1.html" %}
+{% block content %}
+    <div class="site-header-logo ">
+        <h1 class="text-center" style="color:#fff; background:#000;">
+            Tickeralytics
+        </h1>
+    </div>
+
+    <div class="row ">
+                    <div class="col-lg-6 mb-4">
+
+        <div class="card twitter" style="width: 105%;" data-aos="fade-right">
+            <div class="card-body">
+                <div id="chart1"></div>
+                <center><b>
+                <p class="card-text">Top 50 Tickers of this week-Twitter</p>
+                </b></center>
+            </div>
+            </div>
+        </div>
+
+          <div class="col-lg-6 mb-4">
+       <div class="card reddit" style="width: 105%;" data-aos="fade-right">
+            <div class="card-body">
+                <div id="chart2"></div> <center><b>
+              <p class="card-text">
+                   Top 50 Tickers of this week-Reddit</p></b></center>
+            </div>
+
+            </div>
+        </div>
+         </div>
+<!--<label for="customRange3" class="form-label">Example range</label>-->
+<!--<input type="range" class="form-range" min="1" max="30" step="3" id="customRange3">-->
+<div data-aos="fade-left">
+        <span id="rangeValue">0</span>
+        <Input id="slide" class="range" type="range" name="" value="1" min="1" step="3" max="31" onchange="updateVolume(getElementById('slide').value); return true;">
+    </div>
+<br>
+    <div class="row ">
+          <div class="col-lg-6 mb-4">
+
+        <div class="card twitter" style="width: 105%;" data-aos="fade-left">
+            <div class="card-body">
+                <div id="chart3"></div>
+                <p class="card-text">
+                    <center><b>Sunburst</b></center>
+                </p>
+            </div>
+            </div>
+        </div>
+                  <div class="col-lg-6 mb-4">
+
+        <div class="card reddit" style="width: 105%;" data-aos="fade-left">
+            <div class="card-body">
+                <div id="chart4"></div>
+                <p class="card-text"><center><b>Sunburst</b></center></p>
+            </div>
+            </div>
+        </div>
+
+        </div>
+
+        </div>
+<!--DROPDOWN-->
+<div class="dropdown" action="{{ url_for('dashboard') }}" method="post" data-aos="slide-up">
+<select name="ticker" method="GET" action="/" data-live-search="true" id="dropdown" class="btn btn-secondary dropdown-toggle" onchange="dropdownValue(getElementById('dropdown').value); return true;">
+    {% for tick in ticker_list %}
+        <option value="{{tick}}" {% if time == tick %} selected="selected" {% endif %}>{{tick}}</option>"
+    {% endfor %}
+</select>
+
+</div>
+<br>
+    <div class="row ">
+          <div class="col-lg-6 mb-4">
+        <div class="card twitter" style="width: 105%;" data-aos="slide-up">
+            <div class="card-body">
+                <div id="chart5"></div>
+                <p class="card-text"><center><b>Trendline</b></center></p>
+            </div>
+            </div>
+        </div>
+          <div class="col-lg-6 mb-4">
+
+        <div class="card reddit" style="width: 105%;" data-aos="slide-up">
+            <div class="card-body">
+                <div id="chart6"></div>
+                <p class="card-text" id="cut"><center><b>Stock Candle</b></center></p>
+            </div>
+            </div>
+        </div>
+        </div>
+        </div>
+
+    </div>
+    <!-- plotly CDN -->
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="text/javascript">
+
+            console.log('ok');
+
+            var graphs1 = {{ graph1JSON | safe}};
+            Plotly.plot("chart1", graphs1,{});
+
+            var graphs2 = {{ graph2JSON | safe}};
+            Plotly.plot("chart2", graphs2,{});
+
+            var graphs3 = {{ graph3JSON | safe}};
+            Plotly.plot("chart3", graphs3,{});
+
+             var graphs4 = {{ graph4JSON | safe}};
+            Plotly.plot("chart4", graphs4,{});
+
+             var graphs5 = {{ graph5JSON | safe}};
+            Plotly.plot("chart5", graphs5,{});
+
+            var graphs6 = {{ graph6JSON | safe}};
+            Plotly.plot("chart6", graphs6,{});
+
+        function  rangeSlide(vol) {
+              document.getElementById('slide').innerHTML = vol;
+
+        }
+        function updateVolume (vol) {
+
+            req2=$.ajax({
+                method: "POST",
+                url: '/dashboard',
+                data: {slide:$("#slide").val()},
+                success : function(data){
+              // server returns rendered "update_content.html"
+              // which is just pure html, use this to replace the existing
+              // html within the "plot content" div
+              $('#chart3').html(data)
+              $('#chart4').html(data)
+
+
+            },
+            error: function(xhr) {
+        //Do Something to handle error
+        console.log(xhr);
+      }
+
+            })
+            req2.done(function( msg ) {
+                // optional callback stuff if needed
+                console.log(vol);
+              document.getElementById('rangeValue').innerHTML = vol+' days';
+
+                //alert( "Data Saved: "+data );
+            });
+        }
+
+        function dropdownValue (vol) {
+
+            req=$.ajax({
+                method: "POST",
+                url: '/dashboard',
+                data: {drop:$("#dropdown").val()},
+
+                  success : function(data){
+              // server returns rendered "update_content.html"
+              // which is just pure html, use this to replace the existing
+              // html within the "plot content" div
+
+              $('#chart5').html(data)
+              $('#chart6').html(data)
+
+
+
+            },
+            error: function(xhr) {
+        //Do Something to handle error
+        console.log(xhr);
+      }
+      }
+      )
+            req.done(function( msg ) {
+                // optional callback stuff if needed
+                console.log('u can');
+<!--                var graphs5 = {{ graph5JSON | safe}};-->
+<!--                check=Plotly.plot("chart5", graphs5,{});-->
+<!--                console.log(check);-->
+
+
+<!--                alert( "Data Saved: "+vol );-->
+            });
+        }
+    </script>
+
+{% endblock %}

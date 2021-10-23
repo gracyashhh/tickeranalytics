@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <script type="text/javascript">
+     console.log('some use2');
+        var graphs3 = {{ graph3JSON | safe}};
+            Plotly.newPlot("chart3", graphs3,{});
+
+             var graphs4 = {{ graph4JSON | safe}};
+            Plotly.newPlot("chart4", graphs4,{});
+    </script>
+</body>
+</html>
