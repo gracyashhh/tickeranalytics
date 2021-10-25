@@ -34,7 +34,8 @@
 <!--<input type="range" class="form-range" min="1" max="30" step="3" id="customRange3">-->
 <div data-aos="fade-left">
         <span id="rangeValue">0</span>
-        <Input id="slide" class="range" type="range" name="" value="1" min="1" step="3" max="31" onchange="updateVolume(getElementById('slide').value); return true;">
+        <Input id="slide" class="range" type="range" name="" value="1" min="1" step="3" max="31" onchange="updateVolume(getElementById('slide').value); return true;" oninput="this.nextElementSibling.value = this.value">
+        <output>1</output>
     </div>
 <br>
     <div class="row ">
