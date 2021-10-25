@@ -76,7 +76,7 @@ def login():
                 session.modified = True
                 return redirect(url_for('dashboard'))
 
-        return '<h1>Invalid username or password</h1>'
+        return 'alert("Hello! I am an alert box!")'
     return render_template('login1.html', form=form)
 
 @app.route('/signup', methods=['GET', 'POST'])
