@@ -1,0 +1,389 @@
+,date,ticker,TWEETS,Vader Sentiment,Vader Analysis
+0,2021-10-03,TSLA,Shots fired! Cathie calling out GM after TSLA deliveries!,-0.6351,Negative
+1,2021-09-24,GOEV,To the people with the Canoo GOEV DD yesterday,0.0,Neutral
+2,2021-10-06,WISH,WISH investors meet Pennywise,0.5319,Positive
+3,2021-10-19,TSLA,Margin swing trade into $TSLA earning. FOMO the huge rally after ER…Just going to hit the sell button and never look back.,0.3182,Neutral
+4,2021-10-15,WISH,I admit. I made a $WISH.,0.6408,Positive
+5,2021-10-10,TSLA,"Reminder that if your friends still enjoy hanging out with you, you’re not talking about $TSLA enough",0.743,Positive
+6,2021-10-08,TA,Pandora Papers leaked Burry TA,-0.3182,Neutral
+7,2021-09-22,GOEV,"The Rise of Canoo ($GOEV) – Why JPOW’s printer, Biden’s EV support ($15 billion in infrastructure bill, $160 billion in EV subsidies in budget), ~70% increase in institution ownership, 30+% SI and ~98% utilization are primed to send a young and unique EV manufacturer to the stratosphere.",0.6124,Positive
+8,2021-09-22,SP,"The Rise of Canoo ($GOEV) – Why JPOW’s printer, Biden’s EV support ($15 billion in infrastructure bill, $160 billion in EV subsidies in budget), ~70% increase in institution ownership, 30+% SI and ~98% utilization are primed to send a young and unique EV manufacturer to the stratosphere.",0.6124,Positive
+9,2021-09-22,NKLA,"The Rise of Canoo ($GOEV) – Why JPOW’s printer, Biden’s EV support ($15 billion in infrastructure bill, $160 billion in EV subsidies in budget), ~70% increase in institution ownership, 30+% SI and ~98% utilization are primed to send a young and unique EV manufacturer to the stratosphere.",0.6124,Positive
+10,2021-10-07,WISH,$WISH apes today.,0.5319,Positive
+11,2021-09-29,IQ,"DOLE: ""There's always [tendies] in the banana stand"" (DD)",0.0,Neutral
+12,2021-10-06,FB,$FB,0.0,Neutral
+13,2021-10-07,TSLA,"When 90% of a $2.8 mil portfolio is powered by WSB meme stocks, who says WSB is full of dumb money? TSLA, GME, AMC, PLTR. I'm not fucking leaving!",-0.5562,Negative
+14,2021-09-27,LAUR,$LAUR: Get Rich from this 43% Special Dividend,0.743,Positive
+15,2021-09-27,ANY,$LAUR: Get Rich from this 43% Special Dividend,0.743,Positive
+16,2021-10-17,TSLA,Michael Burry to his fans who shorted TSLA because of him.,0.0,Neutral
+17,2021-10-15,TSLA,TSLA goes Brrrrrr... Burry deletes account 😭,-0.4767,Neutral
+18,2021-10-20,TLRY,$2k to $33k in 3 hours on TLRY weeklies.,0.0,Neutral
+19,2021-10-15,TSLA,Ya'll just don't get it do you,0.0,Neutral
+20,2021-10-15,COIN,Ya'll just don't get it do you,0.0,Neutral
+21,2021-10-15,DISCK,Ya'll just don't get it do you,0.0,Neutral
+22,2021-10-15,FB,Ya'll just don't get it do you,0.0,Neutral
+23,2021-10-01,GAIN,"+$70,000 GAIN ON SPY/QQQ PUTS IN ONE DAY, UP ALMOST +$100,000 THIS WEEK 🚀🚀🚀",0.6289,Positive
+24,2021-09-24,TSLA,Lol fuck $TSLA,-0.1779,Neutral
+25,2021-10-07,CRSR,CRSR stock Corsair gaming has 50% upside baby. Buckle up apes! And enjoy the ride,0.5411,Positive
+26,2021-10-01,AAPL,"I sold these $aapl $150 12/15 calls at a huge loss. Went from 65k to 20k. I am dead inside. Lost sleep, motivation everything.",-0.6369,Negative
+27,2021-10-14,CLOV,There are a lot of companies that would kill to get a meme status! $CLOV.,-0.7177,Negative
+28,2021-09-26,TSLA,Anono-mon update. I’ve realized $2M. Image show unrealized gains from $TSLA,0.34,Neutral
+29,2021-10-06,SDC,SDC - 175K YOLO - My life savings along with my wife's bf life savings all in moist,0.4278,Neutral
+30,2021-09-23,GOEV,$GOEV - crayon marking breakout!,0.0,Neutral
+31,2021-10-11,CLOV,Ready to get hurt - 295k YOLO into CLOV,0.2342,Neutral
+32,2021-09-25,CLOV,$CLOV and $WISH apes now:,0.5319,Positive
+33,2021-09-25,WISH,$CLOV and $WISH apes now:,0.5319,Positive
+34,2021-10-16,WISH,WISH literally burns,0.5319,Positive
+35,2021-10-11,CLOV,"CLOV ""investors"" (aka bagholders) anytime it closes green...",0.0,Neutral
+36,2021-10-06,TSLA,Does anyone else miss 2020 or is it just me?,-0.1531,Neutral
+37,2021-10-06,PYPL,Does anyone else miss 2020 or is it just me?,-0.1531,Neutral
+38,2021-09-23,AMD,$BB BlackBerry - UNLEASH THE BEAST!!! (Post earning analysis) 🍇💎🐵,0.0,Neutral
+39,2021-09-23,VERY,$BB BlackBerry - UNLEASH THE BEAST!!! (Post earning analysis) 🍇💎🐵,0.0,Neutral
+40,2021-09-29,TSLA,Just don't fucking dance TSLA,0.0,Neutral
+41,2021-09-23,GOEV,$GOEV An EV BangBus on a highway to Tendie Town? 🚌🍗🏙️,0.0,Neutral
+42,2021-10-06,WISH,I $wish I had more money to buy more They laughed at me when I bought $nio at $1.63 They laughed at me when I bought $amc at $4.00 Go ahead and laugh at me buying $wish at $4.70,0.9358,Positive
+43,2021-10-11,CLOV,"I Followed Some Idiot And Now I’m Down $17,000 On My Weekly CLOV CALLS Expiring This Week 10/15. God Help Me.",0.128,Neutral
+44,2021-10-12,ROOT,"$ROOT, Win the Marathon and Upcoming Catalyst",0.5859,Positive
+45,2021-10-11,TWNK,"TWNK: The bear thesis sucks Ding Dongs, and shorts are scared of taking it up the brownie in Q3 earnings.",-0.6597,Negative
+46,2021-10-11,IBKR,"TWNK: The bear thesis sucks Ding Dongs, and shorts are scared of taking it up the brownie in Q3 earnings.",-0.6597,Negative
+47,2021-10-12,SOFI,$SOFI is so fly - holding till I make a million.,0.0,Neutral
+48,2021-09-28,SDC,Holding SDC until $25 🚀 WHO ELSE GUNNA BE RICH WITH ME?!,0.6833,Positive
+49,2021-09-28,ELSE,Holding SDC until $25 🚀 WHO ELSE GUNNA BE RICH WITH ME?!,0.6833,Positive
+50,2021-09-28,ME,Holding SDC until $25 🚀 WHO ELSE GUNNA BE RICH WITH ME?!,0.6833,Positive
+51,2021-09-29,API,Marqeta DD,0.0,Neutral
+52,2021-10-20,WISH,I $WISH to be on the moon one day 🚀,0.5319,Positive
+53,2021-10-01,SDC,Small dick club $SDC,-0.5106,Negative
+54,2021-10-02,TLRY,Citadel and Susquehanna's Short Play on Tilray,0.34,Neutral
+55,2021-10-02,CGC,Citadel and Susquehanna's Short Play on Tilray,0.34,Neutral
+56,2021-10-18,TSLA,TSLA stock and option holders - you are screwed,-0.4939,Neutral
+57,2021-10-05,FB,Live look into FB servers this AM,0.0,Neutral
+58,2021-10-11,CLOV,CLOV $350K YOLO,0.2732,Neutral
+59,2021-09-22,SOFI,"SOFI yolo update, hoping this is just the beginning.",0.5994,Positive
+60,2021-09-27,VERY,"💰🦁 Lions and deSPACs and redemptions, oh my!!! A guide to the fuse (heh) that's been lit on MoneyLion's stock - $ML 💵🐆",-0.3561,Neutral
+61,2021-10-12,CLOV,$CLOV $95K YOLO ☘️🍀☘️👀🚀🚀🚀,0.4278,Neutral
+62,2021-10-11,CLOV,"Someone Said Invest Only What You Can Afford To Lose So I Invested My Life Savings $25,000 Into CLOV No Cap 🧢",-0.5994,Negative
+63,2021-10-21,TSLA,"$1.3 mil TSLA buy and hold, when I bought at $820 pre-split I thought I was the greatest fool, but luckily Daddy Musk delivers.",0.7269,Positive
+64,2021-10-16,AMZN,"Absolutely retarded… sold my 2 $3260 AMZN calls yesterday for a measly ~$7k, today worth $32k. Got FOMO and bought $12k in puts, down $5k on those",0.2263,Neutral
+65,2021-09-30,ARVL,$LEV - Big LEVerage & Big Booty Buses,0.0,Neutral
+66,2021-09-30,III,$LEV - Big LEVerage & Big Booty Buses,0.0,Neutral
+67,2021-09-30,VII,$LEV - Big LEVerage & Big Booty Buses,0.0,Neutral
+68,2021-10-21,TSLA,I spent the afternoon editing this stupid video after seeing this douche live on CNBC #TSLA #UPST,-0.783,Negative
+69,2021-10-21,UPST,I spent the afternoon editing this stupid video after seeing this douche live on CNBC #TSLA #UPST,-0.783,Negative
+70,2021-10-13,ROOT,Once in a lifetime discount opportunity detected at $ROOT,0.4215,Neutral
+71,2021-10-20,TLRY,TLRY stock highly undervalued,0.0,Neutral
+72,2021-09-26,MVST,Microvast Public Free Float DD,0.5106,Positive
+73,2021-10-11,CLOV,"If This Moons Wifey Is Giving Boyfriend The Glock Glock 9000. $1,000,000 CLOV Market Buy To Be Safe",0.6486,Positive
+74,2021-10-07,FOX,FOX News: Recreational marijuana legalization in Pennsylvania proposed by Republican lawmaker.,0.0,Neutral
+75,2021-09-26,GOEV,GOEV 1-day gain porn ($104k) on just warrants - They hate us because they anus 🛶📈🚀,-0.0772,Neutral
+76,2021-10-12,SOFI,SOFI yolo. To the moon!,0.3382,Neutral
+77,2021-10-18,TSLA,Betting TSLA over the weekend,0.0,Neutral
+78,2021-10-08,SNDL,SNDL to the moon! 25k shares,0.3595,Neutral
+79,2021-10-08,SDC,"$SDC held support PERFECT today! [Tech Analysis] 🔥 , see chart below.",0.7206,Positive
+80,2021-10-19,AAPL,retardate - AAPL puts,0.0,Neutral
+81,2021-10-07,SDC,"Daily Popular Tickers Thread for October 07, 2021 - SDC | PLTR | GME",0.4215,Neutral
+82,2021-10-04,TLRY,TLRY real talk…( Weed stocks in general too kinda but they all suck compared to TLRY),-0.5927,Negative
+83,2021-10-04,ACB,TLRY real talk…( Weed stocks in general too kinda but they all suck compared to TLRY),-0.5927,Negative
+84,2021-09-27,SDC,SDC 38k YOLO 95k shares left to short this thing will go P A R A B O L I C !,0.8425,Positive
+85,2021-10-01,SDC,SDC $1mil+ YOLO,0.4278,Neutral
+86,2021-10-13,GAIN,"+181,000 GAIN on $SoFi. Going to the moon boys🚀💰❤️🔥",0.4084,Neutral
+87,2021-10-02,GAIN,"UPDATE: LOCKED IN +$82,000 GAIN ON SPY/QQQ PUTS IN ONE WEEK 🚀🚀🚀 GOT OUT EARLY TODAY BEFORE MARKET RALLY!!!",0.7192,Positive
+88,2021-09-30,SDC,120k loss in SDC,-0.3182,Neutral
+89,2021-09-25,SOFI,SOFI the next multi-millionaire stock,0.0,Neutral
+90,2021-09-25,API,SOFI the next multi-millionaire stock,0.0,Neutral
+91,2021-10-11,CLOV,"CLOV YOLO: 65,000 shares @ $8.72 - Oct 11 2021 🍀",0.6166,Positive
+92,2021-09-24,GOEV,$GOEV Rocket prepped and fueled for takeoff 🚀🚀🚀,0.0,Neutral
+93,2021-09-24,KC,$GOEV Rocket prepped and fueled for takeoff 🚀🚀🚀,0.0,Neutral
+94,2021-10-11,SDC,SDC! Here we go baby!!!!,0.0,Neutral
+95,2021-09-26,SDC,"$SDC 75k shares! In this life we have two balls, and we going balls deep into SDC!!",0.4724,Neutral
+96,2021-10-11,CLOV,Someone say 200k CLOV YOLO,0.4278,Neutral
+97,2021-09-27,SDC,33k yolo SDC not selling until I’m wealthy,0.5574,Positive
+98,2021-10-10,CLOV,"$24,269 CLOV YOLO. It’s Not Much But It’s Honest Work 🙈🙈🙈",0.7481,Positive
+99,2021-10-11,CLOV,"Shit, here we go again: $200k in $CLOV shares plus $10k in $CLOV FDs",-0.34,Neutral
+100,2021-10-09,SDC,"$SDC Day 2 ✌️ - Another PERFECT day! [Tech Analysis] 🔥, see Friday chart below.",0.5147,Positive
+101,2021-10-15,CAR,"Blackberry EV, IoT Design Wins Update Part II and BB Twitter Clue",0.5719,Positive
+102,2021-10-13,SDC,DD - value about $SDC,0.34,Neutral
+103,2021-10-13,PROG,DD - value about $SDC,0.34,Neutral
+104,2021-10-13,ALGN,DD - value about $SDC,0.34,Neutral
+105,2021-10-13,XRAY,DD - value about $SDC,0.34,Neutral
+106,2021-10-13,HSIC,DD - value about $SDC,0.34,Neutral
+107,2021-10-21,TSLA,"TSLA Q3 Results: ""Like Michael Burry in reverse, the diamond hands and hodlers of Tesla sit back – vindicated – as shorters run for the hills... If Tesla’s staggering progress in China amid extreme geopolitical tensions and regulatory pressure is anything to go by, maybe Elon Musk can do anything.""",0.651,Positive
+108,2021-09-25,SDC,I have never been more Bullish on a stock more than I am in SDC. All in.,0.0,Neutral
+109,2021-10-14,SAVA,Life savings into $SAVA - I’m 21 so I need to become a millionaire asap so I can get a hot girlfriend,0.0,Neutral
+110,2021-10-08,SDC,SDC $25k YOLO,0.4278,Neutral
+111,2021-10-10,SDC,SDC $34K YOLO!!,0.3987,Neutral
+112,2021-10-01,CLOV,YOLO update 9/30: here’s some fappable loss porn since you all hate $CLOV so much. i will sell this for over a milly 🍀💎🤲🏼,-0.4883,Neutral
+113,2021-10-06,SDC,SDC with my college loans and some margin 😎,0.4588,Neutral
+114,2021-09-28,CLOV,I think you know what time it is.CLOV,0.0,Neutral
+115,2021-09-27,TSLA,TSLA percentage gain porn,0.5267,Positive
+116,2021-10-11,CLOV,"16,200 share CLOV YOLO 🚀🚀 Tomorrow moon bound 🌖",0.6166,Positive
+117,2021-10-15,TSLA,Anyone buying a Tesla with their TSLA gains?,0.34,Neutral
+118,2021-09-26,GOEV,Canoo CEO on his way to destroy the GOEV shorts,-0.5423,Negative
+119,2021-10-07,SDC,A small D**k investment $SDC,0.0,Neutral
+120,2021-09-30,WISH,Unrealized loss porn. Went all in on Context Logic $WISH because Zack Morris and buddies were screaming it was gonna blow. Now I’m stuck and watching $CEI from the sideline.,-0.3542,Neutral
+121,2021-09-23,SOFI,"Top trending tickers on WallStreetBets and why, a brand new list: SOFI, SDC, BB, FB, LCID",0.2023,Neutral
+122,2021-09-23,SDC,"Top trending tickers on WallStreetBets and why, a brand new list: SOFI, SDC, BB, FB, LCID",0.2023,Neutral
+123,2021-09-23,FB,"Top trending tickers on WallStreetBets and why, a brand new list: SOFI, SDC, BB, FB, LCID",0.2023,Neutral
+124,2021-09-23,LCID,"Top trending tickers on WallStreetBets and why, a brand new list: SOFI, SDC, BB, FB, LCID",0.2023,Neutral
+125,2021-10-16,TSLA,TSLA diamond hand flex. +12000%,0.6808,Positive
+126,2021-10-05,TLRY,TLRY: The Perfect Buy,0.5719,Positive
+127,2021-10-07,SDC,I’m a retard that is going to become a super saiyan SDC 38k yolo 🚀🚀🚀🚀🚀,0.3818,Neutral
+128,2021-09-23,SDC,"Daily Popular Tickers Thread for September 23, 2021 - SDC | BB | SOFI",0.4215,Neutral
+129,2021-09-23,SOFI,"Daily Popular Tickers Thread for September 23, 2021 - SDC | BB | SOFI",0.4215,Neutral
+130,2021-10-19,TSLA,Yo $TSLA Gang 🔋🚀🚀👩🏼‍🚀🦍🦧,0.0,Neutral
+131,2021-10-09,CLOV,"$CLOV means $$$... time to eat ""bears""!!",0.0,Neutral
+132,2021-10-08,SNDL,Sundial Growers(NASDAQ: SNDL) just announced they acquired Alcanna Inc. (TSX: CLIQ),0.0,Neutral
+133,2021-10-17,UPST,No idea what this company does just saw 🚀🚀🚀🚀 and bought (UPST),-0.296,Neutral
+134,2021-10-11,SDC,Another 10k onto $SDC Patiently waiting for 🤑🚀,0.0,Neutral
+135,2021-09-28,SDC,SDC 🚀 in with another 38k. Available share to borrow dropped from 100k to 55k today.,0.296,Neutral
+136,2021-10-05,WISH,8 Months Later,0.0,Neutral
+137,2021-10-05,CLOV,8 Months Later,0.0,Neutral
+138,2021-10-16,TSLA,The day you realize you could by lots of $TSLA’s,0.0,Neutral
+139,2021-10-19,ANY,RKLB: Blasting Your Portfolio Into SPACE,0.0,Neutral
+140,2021-10-07,CLOV,$CLOV loss yolo 🙃! Adding as much as I can and won’t sell a single share! This shit will go to the fucking ♾♾♾♾!,-0.6281,Negative
+141,2021-09-30,SDC,"Daily Popular Tickers Thread for September 30, 2021 - GME | SDC | LCID",0.4215,Neutral
+142,2021-09-30,LCID,"Daily Popular Tickers Thread for September 30, 2021 - GME | SDC | LCID",0.4215,Neutral
+143,2021-09-23,REAL,$TMC - SHEEP BEING LED TO SLAUGHTER,0.0,Neutral
+144,2021-10-15,CLOV,$CLOV YOLO Update .. one step at a time.... :),0.7034,Positive
+145,2021-10-20,TSLA,Daddy Elon said I should never sell $TSLA gains,-0.2584,Neutral
+146,2021-10-12,TA,$GME Unbiased TA - Another Nice Setup In The Works,0.4019,Neutral
+147,2021-10-08,CRSR,CRSR sit tight for the next high orbit flight 🚀🌕 (Big UPSIDE potential),0.0,Neutral
+148,2021-09-24,GOEV,Short sellers: “Why is $GOEV blowing up?!” Answer:,0.0,Neutral
+149,2021-10-05,RIOT,RIOT gains. $23k in a day after yolo post.,-0.2103,Neutral
+150,2021-10-06,SDC,Two great signs for sdc,0.6249,Positive
+151,2021-10-17,API,Why is simple Dollar Cost Averaging still the king of all investment strategies? - Analyzing the last 3 decades of stock market data to find the best DCA strategy,0.6369,Positive
+152,2021-10-11,CLOV,CLOV $26K stock and options. OG holding my bag since April,0.0,Neutral
+153,2021-10-04,TLRY,TLRY earnings October 7,0.0,Neutral
+154,2021-09-22,SDC,"Daily Popular Tickers Thread for September 22, 2021 - SDC | LCID | GME",0.4215,Neutral
+155,2021-09-22,LCID,"Daily Popular Tickers Thread for September 22, 2021 - SDC | LCID | GME",0.4215,Neutral
+156,2021-10-06,SDC,"Daily Popular Tickers Thread for October 06, 2021 - PLTR | SDC | GME",0.4215,Neutral
+157,2021-10-14,ROOT,$ROOT DD: Breakout Confirmed and High Probability Setup to be $15/share Price Target (+200% gain),0.5267,Positive
+158,2021-10-14,MVIS,$ROOT DD: Breakout Confirmed and High Probability Setup to be $15/share Price Target (+200% gain),0.5267,Positive
+159,2021-10-14,CLOV,$ROOT DD: Breakout Confirmed and High Probability Setup to be $15/share Price Target (+200% gain),0.5267,Positive
+160,2021-10-14,SDC,$ROOT DD: Breakout Confirmed and High Probability Setup to be $15/share Price Target (+200% gain),0.5267,Positive
+161,2021-10-10,BOLT,UWMC ready for liftoff,0.3612,Neutral
+162,2021-10-07,SDC,SDC GAINZ 💰11k in a week,0.0,Neutral
+163,2021-10-13,TLRY,Weed stocks aren't over.,0.0,Neutral
+164,2021-10-21,AMZN,Trading AMZN until I become a millionaire. First post,0.0,Neutral
+165,2021-10-08,TSLA,7 figure $TSLA gain is finally back,0.5267,Positive
+166,2021-10-13,CRSR,The story of Corsair $CRSR,0.0,Neutral
+167,2021-10-14,WISH,I $wish this is the bottom,0.4019,Neutral
+168,2021-10-20,TLRY,The case for Cannabis grows. Inverse Jim Cramer with TLRY 10-20-21,0.0,Neutral
+169,2021-10-20,CGC,The case for Cannabis grows. Inverse Jim Cramer with TLRY 10-20-21,0.0,Neutral
+170,2021-10-18,SDC,$SDC small dicks rise UP,0.0,Neutral
+171,2021-09-23,CLOV,Pineapple Express $CLOV and $BB Edition,0.0,Neutral
+172,2021-09-22,CLOV,$CLOV YOLO “send my kids to college - or not” edition.,0.4278,Neutral
+173,2021-10-22,TSLA,"TSLA ATH close today! +$558,084.28 (+5,439.77%) Portfolio. Mostly TSLA Shares (since 2019) + options. Some FAANG and SPY. 💎🙌",0.3595,Neutral
+174,2021-10-18,TSLA,3 out of 4 times that $tsla has broken out of its current channel it has gone to the moon,-0.4767,Neutral
+175,2021-10-20,TLRY,Running of the Memes Part 5 - Big Breakouts In Multiple Meme Stocks,0.0,Neutral
+176,2021-10-20,CLNE,Running of the Memes Part 5 - Big Breakouts In Multiple Meme Stocks,0.0,Neutral
+177,2021-10-11,SDC,$SDC 25k yolo,0.2732,Neutral
+178,2021-10-18,GAME,PLAN FOR CHRISTMAS DISASTER AND BUY THE GAME DEVELOPERS,-0.6249,Negative
+179,2021-10-18,VC,PLAN FOR CHRISTMAS DISASTER AND BUY THE GAME DEVELOPERS,-0.6249,Negative
+180,2021-10-18,TTWO,PLAN FOR CHRISTMAS DISASTER AND BUY THE GAME DEVELOPERS,-0.6249,Negative
+181,2021-10-18,EA,PLAN FOR CHRISTMAS DISASTER AND BUY THE GAME DEVELOPERS,-0.6249,Negative
+182,2021-10-18,ATVI,PLAN FOR CHRISTMAS DISASTER AND BUY THE GAME DEVELOPERS,-0.6249,Negative
+183,2021-10-05,WISH,$WISH Loss Porn... From trader... to investor... to bagholder,0.2808,Neutral
+184,2021-09-25,VSAT,AST SpaceMobile. The Black Swan of Low Earth Orbit satellite communication constellations. 🦢🦢🦢🦢🦢🦢🦢🦢🦢🦢 🦅 Why is it so different?,-0.2732,Neutral
+185,2021-09-25,CAC,AST SpaceMobile. The Black Swan of Low Earth Orbit satellite communication constellations. 🦢🦢🦢🦢🦢🦢🦢🦢🦢🦢 🦅 Why is it so different?,-0.2732,Neutral
+186,2021-09-25,GNSS,AST SpaceMobile. The Black Swan of Low Earth Orbit satellite communication constellations. 🦢🦢🦢🦢🦢🦢🦢🦢🦢🦢 🦅 Why is it so different?,-0.2732,Neutral
+187,2021-09-27,TSLA,$TSLA to ATHs and your account can be too if you join in!!!!,0.5216,Positive
+188,2021-09-25,TSLA,Which one of you geniuses keeps buying the $TSLA puts I sell?,0.0,Neutral
+189,2021-10-14,SDC,Joined SDC Gang,0.0,Neutral
+190,2021-10-03,WISH,Where my $wish crew this week? If you’re not in $wish now is the time!,0.1862,Neutral
+191,2021-09-25,SDC,SDC YOLO FROM A EUROPEAN APE. SEE YOU AT THE MOON MY AMERICAN RETARD COUSINS!!,-0.4374,Neutral
+192,2021-10-05,TLRY,TLRY moves,0.0,Neutral
+193,2021-09-28,SDC,All in SDC added. Waiting for short squeeze.,0.0,Neutral
+194,2021-10-05,SDC,Ya'll.ready? 😏 $SDC,0.0,Neutral
+195,2021-09-29,MSFT,Bought the dip in MSFT and eventually looked at my phone : Officially apart of the 6-figure club,0.0,Neutral
+196,2021-09-29,SDC,Every cent this goes up I make 69$ 🦷 SDC🦷,0.0,Neutral
+197,2021-10-17,MARA,MARA gains 🪙 💥🚀😊,0.7096,Positive
+198,2021-10-02,CLOV,YOLO: CLOV All in. going sell once i hit $1M ...:),0.4278,Neutral
+199,2021-10-21,TSLA,Working my way towards a new Model Plaid. Casual $TSLA 1400% Gainz in an hour.,0.2023,Neutral
+200,2021-10-08,SNDL,"$SNDL, the next leader of cannabis",0.0,Neutral
+201,2021-10-14,CLOV,$clov to moon . Yolo,0.2732,Neutral
+202,2021-10-20,WISH,Here’s my resume…. $WISH $CLOV,0.5319,Positive
+203,2021-10-20,CLOV,Here’s my resume…. $WISH $CLOV,0.5319,Positive
+204,2021-09-23,GOEV,$GOEV is just the broke mans tesla,-0.4215,Neutral
+205,2021-10-11,SOFI,"The mid-day update. Top trending tickers on WallStreetBets and why: SOFI, CLOV, SDC, GME, BABA",0.2023,Neutral
+206,2021-10-11,CLOV,"The mid-day update. Top trending tickers on WallStreetBets and why: SOFI, CLOV, SDC, GME, BABA",0.2023,Neutral
+207,2021-10-11,SDC,"The mid-day update. Top trending tickers on WallStreetBets and why: SOFI, CLOV, SDC, GME, BABA",0.2023,Neutral
+208,2021-10-18,NFLX,Netflix's 'Squid Game' Will Generate About $900 Million,0.0,Neutral
+209,2021-09-29,WKHS,WKHS ...Video today : Last-Mile Delivery Drone in action,0.0,Neutral
+210,2021-10-14,WISH,WISH Peaking through the falling wedge resistance today. Tomorrow could be an important day to confirm breakout.,0.5622,Positive
+211,2021-10-04,TLRY,"TLRY Oct 8, $148k YOLO",0.4278,Neutral
+212,2021-10-16,CLOV,Any day now ….🍀 CLOV,0.0,Neutral
+213,2021-09-29,CLOV,$CLOV ☘️ All IN. I don’t mind eating ramen everyday for the rest of the year.,0.0,Neutral
+214,2021-10-15,CRSR,CRSR YOLO Update,0.4278,Neutral
+215,2021-09-29,SDC,"I finally feel like a true retard... and yes, I am still holding $SDC",0.5574,Positive
+216,2021-09-24,GOEV,DD - GOEV CEO Just Bought the DIP,0.0,Neutral
+217,2021-10-12,CLOV,I bought 126 CLOV calls that’s expiring this week,0.0,Neutral
+218,2021-09-22,SDC,20K YOLO ON SDC,0.2732,Neutral
+219,2021-10-08,CRSR,"185k Yolo On CRSR Stock - I'm Ready For The 50% Upward Move Baby, Are You?",0.5574,Positive
+220,2021-10-02,SDC,I have never been more Bullish on a stock than I am in SDC. All In. Part 2,0.0,Neutral
+221,2021-10-21,III,An Introduction to RocketLab $RKLB 10/20/2021,0.0,Neutral
+222,2021-10-01,SDC,SDC DD (Not based on a Short Squeeze),0.0,Neutral
+223,2021-10-08,SDC,I do too have a small Wee Wee. SDC 🤏🤏🤏🤏,0.0,Neutral
+224,2021-09-23,SDC,$SDC - Where every inch counts! 📐 = 🚀🚀🚀,0.0,Neutral
+225,2021-09-29,SDC,Retards Today after they YOLO'd on SDC calls,0.0,Neutral
+226,2021-10-19,WISH,The Many Saints of $WISH,0.5319,Positive
+227,2021-10-16,SDC,SDC.. going to 🌙,0.0,Neutral
+228,2021-10-13,CLOV,CLOV $40K YODEL YOLO,0.2732,Neutral
+229,2021-10-12,CRSR,Its CRSR time baby! Corsair Gaming is a Solid Company is Poised for Liftoff. Huge Profits + Cheap Valuation = Huge Gains IMO,0.8955,Positive
+230,2021-10-04,TSLA,"Daily Popular Tickers Thread for October 04, 2021 - GME | GM | TSLA",0.4215,Neutral
+231,2021-10-22,TSLA,"$TSLA q3 2021 earnings, visualized",0.0,Neutral
+232,2021-10-18,AMD,$AMD Q3 is going to be a blowout. $TSM already gave the right indication. Let’s go!,0.0,Neutral
+233,2021-09-29,GNUS,🚀At the heart of the smart city BB DD🚀,0.7845,Positive
+234,2021-09-29,CRWD,🚀At the heart of the smart city BB DD🚀,0.7845,Positive
+235,2021-09-27,WISH,#WISH 600k YOLO,0.7404,Positive
+236,2021-10-01,WISH,"Who needs a designer bag, when you got $WISH bags",0.5319,Positive
+237,2021-09-30,AMD,$AMD yolo .. $150k down .. hoping papa musk’s tweet will save the day ..,0.7964,Positive
+238,2021-09-25,GOEV,$GOEV Rocket prepped and fueled for takeoff 🚀🚀🚀,0.0,Neutral
+239,2021-09-25,GOEV,"$GOEV - the chart has spoken, its time to eat crayons!",0.0,Neutral
+240,2021-09-25,BLUE,"$GOEV - the chart has spoken, its time to eat crayons!",0.0,Neutral
+241,2021-09-23,SDC,SDC loss. Buying more tomorow….,-0.3182,Neutral
+242,2021-10-20,PLAY,"WASHED UP, OLD APE BOOMER PLAY $F",0.34,Neutral
+243,2021-10-01,BBBY,"Daily Popular Tickers Thread for October 01, 2021 - GME | AMC | BBBY",0.4215,Neutral
+244,2021-10-13,TLRY,The case for Cannabis - Inverse Jim Cramer with TLRY 10/13/21,0.0,Neutral
+245,2021-10-01,SAVA,SAVA. Cause. More. Wrinkle.,0.0,Neutral
+246,2021-10-01,SP,SAVA. Cause. More. Wrinkle.,0.0,Neutral
+247,2021-10-01,BIIB,SAVA. Cause. More. Wrinkle.,0.0,Neutral
+248,2021-10-14,SOFI,YOLO $SOFI - Who's with me?,0.4278,Neutral
+249,2021-10-18,AMD,$AMD update. In Su Bae we trust.,0.5106,Positive
+250,2021-10-20,SDC,$SDC Bought 5k shares and 50 protective puts as an insurance,0.296,Neutral
+251,2021-10-19,SOFI,SOFI - Bank Charter and Earnings play (DD),0.34,Neutral
+252,2021-10-20,SOFI,5000 shares in $SOFI,0.296,Neutral
+253,2021-10-08,CLOV,"To satisfy your thirst for more $CLOV YOLO loss porn, shortly set to become gain porn - $CLOV 🍀🚀💎👐",0.7874,Positive
+254,2021-10-20,WISH,42k YOLO $Wish,0.6739,Positive
+255,2021-09-30,SDC,$SDC Cost to borrow just picked up!,0.0,Neutral
+256,2021-10-21,WISH,$WISH add 50k shares near 5$. GO TO 69$🚀🚀🚀,0.6841,Positive
+257,2021-10-04,WISH,$WISH GANG,0.4019,Neutral
+258,2021-10-07,CRSR,"DD: Corsair again $CRSR, bargain.",0.2023,Neutral
+259,2021-10-07,RAM,"DD: Corsair again $CRSR, bargain.",0.2023,Neutral
+260,2021-10-02,WISH,Please go to $10 again WISH,0.694,Positive
+261,2021-09-27,CLOV,$CLOV $GOEV YOLO. Looking for some tendies.,0.4278,Neutral
+262,2021-09-27,GOEV,$CLOV $GOEV YOLO. Looking for some tendies.,0.4278,Neutral
+263,2021-09-24,WISH,$WISH 💎🙌 down $44k,0.5319,Positive
+264,2021-10-06,FB,Here is my FB position I covered today had to take the gains the hidden part is GME can’t wait to show you guys that update 👀,0.34,Neutral
+265,2021-09-24,GOEV,"$GOEV, My prediction for GOEV on Monday but in a dank GOT meme",0.0,Neutral
+266,2021-10-18,TSLA,TSLA to offer disruptive insurance product,-0.3182,Neutral
+267,2021-10-05,TLRY,TLRY earnings gonna print paper faster than you can roll a blunt for your wife’s BF. Hop in before Thursday apes 🦍 🍌 🌚 🚀 🚀 🚀,0.0,Neutral
+268,2021-09-23,CRSR,Corsair (CRSR) Stock about to moon baby! This profitable growth stock is being ignored by Wallstreet. This 27 dollar stock going to 40 FAST?,0.6081,Positive
+269,2021-09-23,FAST,Corsair (CRSR) Stock about to moon baby! This profitable growth stock is being ignored by Wallstreet. This 27 dollar stock going to 40 FAST?,0.6081,Positive
+270,2021-09-23,AMD,Corsair (CRSR) Stock about to moon baby! This profitable growth stock is being ignored by Wallstreet. This 27 dollar stock going to 40 FAST?,0.6081,Positive
+271,2021-10-15,WISH,$WISH to $6,0.5319,Positive
+272,2021-09-24,CLOV,$Clov yolo🤑!!,0.3987,Neutral
+273,2021-10-02,SOFI,Why SOFI is a Must Own,0.0,Neutral
+274,2021-10-02,UPST,Why SOFI is a Must Own,0.0,Neutral
+275,2021-10-05,WISH,My $WISH DD,0.5319,Positive
+276,2021-10-05,TA,My $WISH DD,0.5319,Positive
+277,2021-09-23,SDC,SDC BEGINNING IN FRANCE,0.0,Neutral
+278,2021-10-01,GSM,Silly Season: ⚡Factory Shutdowns and the looming Implant Shortage 🍈🍈 $GSM,-0.34,Neutral
+279,2021-10-01,IEA,Silly Season: ⚡Factory Shutdowns and the looming Implant Shortage 🍈🍈 $GSM,-0.34,Neutral
+280,2021-09-30,HYZN,HYZN: Down 35% after fake short seller report - perfect target for a squeeze,0.1531,Neutral
+281,2021-10-05,FB,"Daily Popular Tickers Thread for October 05, 2021 - FB | GME | BABA",0.4215,Neutral
+282,2021-10-21,SOFI,$SOFI - A Retard's Retirement Paradise,0.6369,Positive
+283,2021-09-24,GOEV,"With a Short Interest of Over 33 Percent of Its Entire Float, Canoo (GOEV) Starts Receiving Some Much-Needed Love From WallStreetBets",0.802,Positive
+284,2021-10-11,TSLA,Burry’s $TSLA short was less than a million not 500+ mn,0.0,Neutral
+285,2021-10-18,DUNE,"$AMC target 70.55 the 61.8% extension, am expecting DUNE to have a strong opening weekend, Technically she is set up for a continuation regardless",0.5106,Positive
+286,2021-10-06,FB,"!!! news. mother of all lawsuits quietly filed last month vs Facebook in Delaware. I'll explain why it avoided notice until now in a bit but Zuckerberg, Sandberg, CFO, board inc Peter Thiel and Palantir are defendants - it's a result of sealed docs between FB execs and board. /1",-0.4359,Neutral
+287,2021-10-20,WISH,WISH IS MOVING UPWARD MOMENTUM:,0.4019,Neutral
+288,2021-10-20,MELI,WISH IS MOVING UPWARD MOMENTUM:,0.4019,Neutral
+289,2021-10-20,ETSY,WISH IS MOVING UPWARD MOMENTUM:,0.4019,Neutral
+290,2021-09-28,VS,TESLA VS. BEARS,0.0,Neutral
+291,2021-10-19,TSLA,"TSLA gains, thx Elon",0.5994,Positive
+292,2021-10-18,CLOV,This is How CLOV Will Break Through $20 in December,0.0,Neutral
+293,2021-10-18,ROLL,This is How CLOV Will Break Through $20 in December,0.0,Neutral
+294,2021-10-07,CRSR,"CRSR, low float and highly shorted.",-0.2732,Neutral
+295,2021-10-05,WISH,"$WISH, Have we bottom out yet ?",0.5319,Positive
+296,2021-10-13,SOFI,SOFI only going to get better from here!,0.4926,Neutral
+297,2021-10-02,TSLA,"If Elon reports insane Tesla deliveries over the weekend, my 200 $900 $TSLA contracts are going to print. If not, I can always move home.",-0.4019,Neutral
+298,2021-10-03,CASH,"SAVE BIG ON TAXES BY TRADING SPX/NDX CORRECTLY: If you use SPY/QQQ options and not SPX/XSP/NDX/ES/NQ options for short-term trades, after reading this, you should consider yourself a moron. Annual PSA!",0.2558,Neutral
+299,2021-10-09,CHK,Your loss porn is cathartic for me….,-0.3182,Neutral
+300,2021-10-08,WISH,$WISH DD: Upside Surprise Potential in November Earnings,0.6739,Positive
+301,2021-09-29,CLOV,CLOV YOLO,0.2732,Neutral
+302,2021-09-27,PNT,AST SpaceMobile Assured PNT / Fused LEO GNSS potential.,0.3612,Neutral
+303,2021-09-27,GNSS,AST SpaceMobile Assured PNT / Fused LEO GNSS potential.,0.3612,Neutral
+304,2021-09-24,TLRY,As TLRY breaks out of a falling wedge…….and earnings coming October 7th(30% Jump last earnings )…..and banks doing business with cannabis companies passed ….now is it a good time to get in so you don’t chase the rocket,0.3182,Neutral
+305,2021-09-28,LTCH,$LTCH: A play worth locking in,0.5106,Positive
+306,2021-10-03,TELL,$TELL- Recent Moves in Nat Gas,0.0,Neutral
+307,2021-10-01,SDC,39k $SDC yolo,0.2732,Neutral
+308,2021-09-23,GOEV,$GOEV YOLO,0.2732,Neutral
+309,2021-09-27,LCID,$LCID Lucid Motors ☁️⚡ Big announcement this week - get in before the news drop,-0.2732,Neutral
+310,2021-09-27,TSLA,$LCID Lucid Motors ☁️⚡ Big announcement this week - get in before the news drop,-0.2732,Neutral
+311,2021-09-23,WISH,Let's try this $WISH business YOLO,0.7829,Positive
+312,2021-10-20,ROOT,Hide Your Wife as I'll Pull Up To Your House in a Pink Lambo - $ROOT from $5 to $15 PT (+200%),-0.1779,Neutral
+313,2021-10-16,SDC,SDC thoughts?,0.0,Neutral
+314,2021-09-25,VIAC,"YOLOs on DNA, GENI, CC, JBI, VIAC - $3.5M on the line",0.0,Neutral
+315,2021-10-20,WISH,WISH squad. LFG!,0.5754,Positive
+316,2021-10-05,SDC,Why do people keep trying to screw $SDC hit the threshold list today.,-0.1027,Neutral
+317,2021-10-18,SOFI,How To Pick BIG MOVERS 🚀 - The Importance of ADR & How To Use It.,0.3612,Neutral
+318,2021-10-18,AAPL,How To Pick BIG MOVERS 🚀 - The Importance of ADR & How To Use It.,0.3612,Neutral
+319,2021-10-18,NNDM,How To Pick BIG MOVERS 🚀 - The Importance of ADR & How To Use It.,0.3612,Neutral
+320,2021-09-26,VERY,A Bears Guide to Shorting Stupid Meme Stocks,-0.5267,Negative
+321,2021-09-25,SDC,💎🙌 SDC YOLO. Part 2.,0.4278,Neutral
+322,2021-10-07,AVPT,Avepoint (AVPT) : An Undervalued Play Which Literally Can't Go Tits Up,0.4707,Neutral
+323,2021-10-04,SOFI,Why SOFI will be buying my wife and me a new boyfriend,0.0,Neutral
+324,2021-09-28,CLOV,"We are having an interesting situation on $CLOV. - Oct 15 options open interest is lower than usual. - Implied volatility is quite low, as low as it was before June $20+ jump. - The stock price is also historically low. What does this mean? Thread below... 👇 If you are planning to buy calls, buy now",-0.3306,Neutral
+325,2021-10-10,GOEV,$GOEV keep this one on watch - nicely bottomed out and 30% short,0.4404,Neutral
+326,2021-10-01,CRSR,CRSR | Shorts are getting overleveraged and will have to cover on move to upside,0.0,Neutral
+327,2021-10-16,AMZN,Another $AMZN Gain 💸,0.5267,Positive
+328,2021-09-27,ROOT,Top 10 Short Analysis and Big & Safe Moves for October: $ROOT and others,0.5719,Positive
+329,2021-09-27,NKLA,Top 10 Short Analysis and Big & Safe Moves for October: $ROOT and others,0.5719,Positive
+330,2021-09-27,GOEV,Top 10 Short Analysis and Big & Safe Moves for October: $ROOT and others,0.5719,Positive
+331,2021-09-27,SDC,Top 10 Short Analysis and Big & Safe Moves for October: $ROOT and others,0.5719,Positive
+332,2021-09-27,CASH,Top 10 Short Analysis and Big & Safe Moves for October: $ROOT and others,0.5719,Positive
+333,2021-09-27,TSLA,Top 10 Short Analysis and Big & Safe Moves for October: $ROOT and others,0.5719,Positive
+334,2021-09-27,VERY,Quite possibly the best opportunity that you will ever have and it is today and right now!,0.8203,Positive
+335,2021-10-01,SOFI,$SOFI Bank Charter Very Very Soon,0.0,Neutral
+336,2021-09-24,SOFI,SOFI Update - 💎 ✋ clawing back the earnings L,0.7865,Positive
+337,2021-10-17,UPST,Who else loves UPST,0.5719,Positive
+338,2021-10-13,CLOV,"CLOV Stock: Skeptical, Wall Street Still Sees 6% Upside",-0.3182,Neutral
+339,2021-09-30,TLRY,I just posted about alibaba and was convinced on TLRY - so good luck fellow apes! 🌙 🚀 please don’t tell my wife’s BF I’m using his money,0.9064,Positive
+340,2021-09-30,SOFI,"$SOFI YOLO (bought 3k shares yesterday, 2k today)",0.6166,Positive
+341,2021-09-28,ROOT,$ROOT Stock - Safe and High ROI setup for October - Analysis of Naked Short Setup,0.4404,Neutral
+342,2021-09-28,SDC,$ROOT Stock - Safe and High ROI setup for October - Analysis of Naked Short Setup,0.4404,Neutral
+343,2021-09-28,NKLA,$ROOT Stock - Safe and High ROI setup for October - Analysis of Naked Short Setup,0.4404,Neutral
+344,2021-09-28,GOEV,$ROOT Stock - Safe and High ROI setup for October - Analysis of Naked Short Setup,0.4404,Neutral
+345,2021-10-05,SDC,When it’s your rent Money 2k can taste like some high octane shit. $SDC make me smile again,0.1027,Neutral
+346,2021-10-13,PDD,Why I am invested in Alibaba.,0.0,Neutral
+347,2021-10-12,WISH,WISH: how a Q3 Revenue Beat Will Catch Shorts by Surprise,0.6739,Positive
+348,2021-10-04,WISH,$Wish and Neurotic Mr. Market,0.0772,Neutral
+349,2021-10-19,EH,CIFR and the Gold Standard of Valuing Miners,0.34,Neutral
+350,2021-10-08,AMRS,AMRS- Making limited stuff unlimited (referring to your $$),-0.2263,Neutral
+351,2021-10-06,WIRE,PSFE….the next SQ / PayPal to the moon,0.0,Neutral
+352,2021-10-06,API,PSFE….the next SQ / PayPal to the moon,0.0,Neutral
+353,2021-09-26,ASTS,Make $ASTS Great Again,0.6249,Positive
+354,2021-10-14,TSLA,Not too late folks! $TSLA🚀🚀🚀,0.0,Neutral
+355,2021-10-22,AMD,Small AMD scalp v2,0.0,Neutral
+356,2021-10-04,CLOV,Solid setup into Monday. Anchored VWAP above around $9. $CLOV,0.1531,Neutral
+357,2021-10-01,BBBY,College student yolo into BBBY with x5 leverage. Wish me luck.,0.7783,Positive
+358,2021-09-30,CRSR,$CRSR | A Long Form Corsair DD,0.0,Neutral
+359,2021-10-21,SOFI,$SOFi is Bloomberg's Top Idea!,0.2714,Neutral
+360,2021-09-30,ROOT,$ROOT. Buy the bottom. Extreme Value.,0.4005,Neutral
+361,2021-09-25,CRSR,CRSR stock is a powerful force not to be reckoned with. Corsair stock going to the moon quick bois!,0.4753,Neutral
+362,2021-10-18,SP,Why I think CLF is bound to largely exceed expectations in Q3 and Q4,0.0,Neutral
+363,2021-09-28,CLNE,CLNE YOLO - update,0.4278,Neutral
+364,2021-10-02,WISH,$WISH - Week 3 Loss Update 😂 5K more shares coming over weekend through assigned Puts lol,0.8529,Positive
+365,2021-10-20,TSLA,How to ACTUALLY play earnings,0.34,Neutral
+366,2021-10-11,HUT,62K $HUT YOLO - The stock is undervalued,0.4278,Neutral
+367,2021-10-04,WISH,WISH YOLO...Lets do this,0.5319,Positive
+368,2021-09-24,FB,Why BB Blackberry patent sale is taking this long,0.0,Neutral
+369,2021-09-23,PRPL,"81,000 Shares , 400 Call Contracts - Mattress Stocks are the 2 Million dollar play - PRPL",0.5574,Positive
+370,2021-09-30,WISH,How many people have actually tried using $WISH's website?,0.0,Neutral
+371,2021-09-30,ANY,How many people have actually tried using $WISH's website?,0.0,Neutral
+372,2021-10-10,TSLA,(Update) Palantir Technologies (PLTR) Price Action 10 Oct 21 🚀 🚀,0.0,Neutral
+373,2021-10-10,SDC,(Update) Palantir Technologies (PLTR) Price Action 10 Oct 21 🚀 🚀,0.0,Neutral
+374,2021-10-04,STMP,Few months ago someone turned $90 into $24000 in one day. Looks like the similar opportunity is still alive.,0.7845,Positive
+375,2021-10-09,FFIE,"$PLTR: Recent News, SEC Filings, and insider selling",0.0,Neutral
+376,2021-10-09,CD,"$PLTR: Recent News, SEC Filings, and insider selling",0.0,Neutral
+377,2021-09-23,ROOT,"ROOT, The Tech and AI Firm Revolutionizing an Industry and my MONSTER position",0.0,Neutral
+378,2021-10-12,SDC,SDC is a dogshit company... but they know if they can survive the short term they'll win the long term game,0.7351,Positive
+379,2021-09-30,WISH,WISH TO 69.... 🙈,0.5319,Positive
+380,2021-10-18,BNGO,The power of holding through an uptrend,0.0,Neutral
+381,2021-10-18,CLOV,The power of holding through an uptrend,0.0,Neutral
+382,2021-10-18,RIOT,The power of holding through an uptrend,0.0,Neutral
+383,2021-10-15,ME,$ME 23&me inevitable break through,0.0,Neutral
+384,2021-10-13,TLRY,TLRY (TILRAY-NASDAQ),0.0,Neutral
+385,2021-10-05,SDC,"New Chart Pattern: DUCK, DUCK, F***, GOOSE Pattern on $SDC (Test with $ROOT)",0.0,Neutral
+386,2021-10-05,ROOT,"New Chart Pattern: DUCK, DUCK, F***, GOOSE Pattern on $SDC (Test with $ROOT)",0.0,Neutral
+387,2021-09-28,TELL,"Ain't much, but honest gains. Thanks $Tell",0.5263,Positive
