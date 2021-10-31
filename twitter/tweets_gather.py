@@ -1,6 +1,7 @@
 import pickle
 
 import twint
+import twint
 
 from config import TWEETS_LIMIT,TWITTER_HANDLES
 

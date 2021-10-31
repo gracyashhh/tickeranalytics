@@ -6,7 +6,7 @@ import plotly.express as px
 
 
 
-df = pd.read_csv('F:\Projects-of-all-time\CloudCosmos\september-internship\karunya-univ-july-2021\\tickeralytics\sentiment_data.csv')
+df = pd.read_csv('sentiment_data.csv')
 df.drop('Unnamed: 0', axis = 'columns', inplace=True)
 analyzer = SentimentIntensityAnalyzer()
 
