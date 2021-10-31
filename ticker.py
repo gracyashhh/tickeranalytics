@@ -39,7 +39,7 @@ class analytics:
             all_tweets = {}
             for handle in handles:
                 with open(
-                        f"twitter\\{handle}_tweets.pickle",
+                        f"twitter/{handle}_tweets.pickle",
                         "rb") as dump_file:
                     all_tweets[handle] = pickle.load(dump_file)
                 break
@@ -75,7 +75,7 @@ class analytics:
         analysis = []
 
         with open(
-                "nlp-macros\wallstreetbets.csv",
+                "nlp-macros/wallstreetbets.csv",
                 "r", encoding="utf8") as f:
             read = csv.reader(f)
             next(read)
