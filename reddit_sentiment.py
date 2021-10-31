@@ -6,7 +6,7 @@ import plotly.express as px
 
 
 data = []
-with open('nlp-macros\wallstreetbets.csv', 'r', encoding='utf8') as f:
+with open('nlp-macros/wallstreetbets.csv', 'r', encoding='utf8') as f:
     read = csv.reader(f)
     next(read)
     for r in read:
