@@ -7,7 +7,7 @@ import sys
 import yfinance as yf
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-sys.path.insert(0, 'F:\Projects-of-all-time\CloudCosmos\september-internship\karunya-univ-july-2021\\tickeralytics')
+# sys.path.insert(0, 'F:\Projects-of-all-time\CloudCosmos\september-internship\karunya-univ-july-2021\\tickeralytics')
 from tweets_sentiment import tweet_sent
 from reddit_sentiment import red_sent
 
@@ -39,7 +39,7 @@ class analytics:
             all_tweets = {}
             for handle in handles:
                 with open(
-                        f"F:\Projects-of-all-time\CloudCosmos\september-internship\karunya-univ-july-2021\\tickeralytics\\twitter\{handle}_tweets.pickle",
+                        f"twitter\\{handle}_tweets.pickle",
                         "rb") as dump_file:
                     all_tweets[handle] = pickle.load(dump_file)
                 break
@@ -75,7 +75,7 @@ class analytics:
         analysis = []
 
         with open(
-                "F:\Projects-of-all-time\CloudCosmos\september-internship\karunya-univ-july-2021\\nlp-macros\wallstreetbets.csv",
+                "nlp-macros\wallstreetbets.csv",
                 "r", encoding="utf8") as f:
             read = csv.reader(f)
             next(read)
