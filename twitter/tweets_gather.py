@@ -13,7 +13,6 @@ class Twint():
         twitter_config.Username = username
         twitter_config.Limit = TWEETS_LIMIT
         twitter_config.Store_csv = True
-        twitter_config.Output = "test.csv"
         twitter_config.Store_object = True
         # Run
         try:

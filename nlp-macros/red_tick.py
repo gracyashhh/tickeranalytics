@@ -66,18 +66,3 @@ wallStreet = pd.DataFrame(wallStreet,columns=['Title','Date','Time','No.of comme
 print(wallStreet)
 wallStreet.to_csv("wallstreetbets.csv")
 
-fn = 'wall'
-fn1 = 'ticks'
-fn2 = 'comments_ls'
-
-outfile = open(fn,'wb')
-pickle.dump(wallStreet,outfile)
-outfile.close()
-
-of1 = open(fn1,'wb')
-pickle.dump(ticker,of1)
-of1.close()
-
-of2 = open(fn2,'wb')
-pickle.dump(p_comments,of2)
-of2.close()
